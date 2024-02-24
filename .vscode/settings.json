@@ -4,6 +4,9 @@
         "fstream": "c",
         "optional": "c",
         "tuple": "c",
-        "type_traits": "c"
+        "type_traits": "c",
+        "random": "c",
+        "limits": "c",
+        "algorithm": "c"
     }
 }
