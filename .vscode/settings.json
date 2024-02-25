@@ -7,6 +7,7 @@
         "type_traits": "c",
         "random": "c",
         "limits": "c",
-        "algorithm": "c"
+        "algorithm": "c",
+        "sort.h": "c"
     }
 }
