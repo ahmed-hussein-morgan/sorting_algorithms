@@ -45,7 +45,7 @@ int find_pivot(int *array, size_t size, int start, int end)
 }
 
 /**
- * find_pivot - a function that is used to find the pivot number
+ * create_partition - a function that is used to find the pivot number
  * @array: the array to be sorted
  * @size: the size of array
  * @start: the first index of the array or sub-array
